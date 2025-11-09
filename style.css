@@ -1,0 +1,30 @@
+body {
+    background-color:goldenrod;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: grey;
+  }
+  
+  input {
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  button {
+    padding: 6px 12px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: greenyellow;
+    border: none;
+    color: white;
+    border-radius: 4px;
+  }
+  
+  #output {
+    margin-top: 20px;
+  }
+  
